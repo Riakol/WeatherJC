@@ -24,7 +24,7 @@ import com.example.weatherappncjc.screens.MainCard
 import com.example.weatherappncjc.screens.TabLayout
 import org.json.JSONObject
 
-const val API = "a98ee0971224459cb64103553251602"
+const val API = "XXX"
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
