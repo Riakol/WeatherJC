@@ -14,3 +14,7 @@ Weather App is an Android application built with Jetpack Compose that displays c
   Utilizes Volley for handling HTTP requests.
 - **Image Loading:**  
   Employs Coil Compose for asynchronous image loading and displaying weather icons.
+
+
+<img src="https://github.com/user-attachments/assets/a04cf4a8-55c5-4573-b4ff-b77ae4afcaaf" alt="Image 1" width="30%" style="display: inline-block; vertical-align: top;" />
+<img src="https://github.com/user-attachments/assets/6686cdef-2fa4-4ff1-9cbb-8fd0893519c1" alt="Image 2" width="30%" style="display: inline-block; vertical-align: top;" />
